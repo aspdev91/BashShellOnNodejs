@@ -1,0 +1,14 @@
+{
+  "name": "shell_interpreter",
+  "version": "1.0.0",
+  "description": "Shell interpreter written in Node.js",
+  "main": "bash.js",
+  "scripts": {
+    "start": "nodemon bash.js"
+  },
+  "dependencies": {
+    "chalk": "^1.1.0",
+    "lodash": "^3.10.1",
+    "request": "^2.60.0"
+  }
+}
